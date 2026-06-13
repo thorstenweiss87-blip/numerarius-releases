@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "installer_url": "https://github.com/thorstenweiss87-blip/numerarius-releases/releases/download/v1.0.0/Numerarius-1.0.0-setup.exe",
-  "sha256": "4c88d724e265fdca45f086f91fe9b5ca5b1278d41aa670390859876a00ec6386",
-  "notes": "Numerarius v1.0.0 - Erstes Produkt-Release: Lizenzschutz + Update-Logik."
+  "version": "1.1.0",
+  "installer_url": "https://github.com/thorstenweiss87-blip/numerarius-releases/releases/download/v1.1.0/Numerarius-1.1.0-setup.exe",
+  "sha256": "2902c29a1867765c2d399fcb8acf65a5fb043d943725c5b0d6500ff3b66b500f",
+  "notes": "Numerarius v1.1.0 - Lizenz-Mechanismus auf keygen-Paket umgestellt."
 }
